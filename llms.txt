@@ -1,0 +1,14 @@
+# Spotlight
+
+> Spotlight is a marketing intelligence studio. Tagline: "Where marketing meets intelligence."
+
+Spotlight turns audience data into clear strategy, sharper campaigns and measurable growth.
+
+## Services
+- Audience intelligence: who your best customers are and what they respond to
+- Campaign strategy: evidence-based channel, message and budget plans
+- Performance analytics: connecting spend to revenue
+- Creative direction: concepts tested against real audience signals
+
+## Pages
+- [Home](https://YOUR-DOMAIN.com/): overview, services, approach and contact form
